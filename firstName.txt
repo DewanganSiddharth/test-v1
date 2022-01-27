@@ -1,0 +1,9 @@
+This file contains details about first name of peoples :
+Siddharth
+Gaurav
+Arun
+Gurtaj
+Raxit
+Rachit
+Smita
+
